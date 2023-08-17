@@ -7,5 +7,6 @@ int main() {
 	}
 	printf("\n");
 	print("fffefefefefefefefefefefef")
+	scan(Fsafsafa)
 	return 0;
 }
