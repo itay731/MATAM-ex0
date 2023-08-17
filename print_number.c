@@ -6,5 +6,6 @@ int main() {
 		printf("%d", course_number[i]);
 	}
 	printf("\n");
+	print("fffefefefefefefefefefefef")
 	return 0;
 }
