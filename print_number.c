@@ -8,5 +8,13 @@ int main() {
 	printf("\n");
 	print("fffefefefefefefefefefefef")
 	scan(Fsafsafa)
+	dfasdasdas
+	dasdasdasdasdas
+	dasdasdasdasdasdasd
+	dsdsd
+	dsdsdd
+	ddd
+	dsdsdd
+	dd
 	return 0;
 }
