@@ -6,5 +6,20 @@ int main() {
 		printf("%d", course_number[i]);
 	}
 	printf("\n");
+	print("fffefefefefefefefefefefef")
+	scan(Fsafsafa)
+	dfasdasdas
+	dasdasdasdasdas
+	dasdasdasdasdasdasd
+	dsdsd
+	dsdsdd
+	ddd
+	dsdsdd
+	dd
+	jjjjjjjjj
+	fasflkasf
+	faskl;fnj;asmknf
+	fmaslnmf
+
 	return 0;
 }
